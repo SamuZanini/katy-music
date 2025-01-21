@@ -1,0 +1,50 @@
+{
+  "colors": {
+    "default": "#2B2D31",
+
+    "primary": "#3b82f6",
+    "secondary": "#4f545c",
+    "success": "#22c55e",
+    "danger": "#ED4245",
+    "warning": "#fbbd23",
+
+    "azoxo": "#5865F2",
+    "green": "#57F287",
+    "yellow": "#FEE75C",
+    "fuchsia": "#EB459E",
+    "magic": "#c026d3",
+
+    "developer": "#3e70dd",
+    "balance": "#45ddc0",
+    "brilliance": "#f07d5f",
+    "nitro": "#ff6bfa",
+    "bravery": "#9c84ef"
+  },
+  "emojis": {
+    "animated": {
+      "happy": {
+        "chicka":"1301361212243836979", 
+        "nyancat":"1301356732714582046",  
+        "happyluffy":"1301356716780294184", 
+        "happyeaster":"1301356723323408424"
+      },
+      "sad": {
+        "animeabood":"1301356705350684793", 
+        "sadpout":"1301356726158889003", 
+        "tristeza":"1301356709847236729",
+        "kitagawatears":"1301366991252230198"
+      }
+    },
+    "static":{
+      "luffy":"1299578011687059548",
+      "bonney":"1299578010097287239",
+      "katy":"1299578032389886022",
+      "86":"1299583116851154994",
+      "peronabr":"1299583113864937564",
+      "rebeccabr":"1299583110605963365",
+      "secre":"1299583112149336105",
+      "utabr":"1299583114921775156",
+      "inggat":"1299602174870818878"
+    }
+  }
+}
